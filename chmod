@@ -1,0 +1,6 @@
+chmod a+x --> all user can execute the file
+chmod a+w --> all user can write the file
+chmod a+r --> all user can read the file
+
+
+
